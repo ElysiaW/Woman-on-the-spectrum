@@ -233,3 +233,15 @@ h4 a {
     height:100px;
     width:100px;
 }
+
+
+/* donts */
+
+.donts-title {
+    text-align: center;
+    padding: 17%;
+    font-size: 130px;
+    font-weight: 300;
+    font-family: Kantemuruy Pro, serif;
+    z-index:1;
+}
