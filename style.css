@@ -114,7 +114,7 @@ h1,h2 {
 
 /* stim */
 
-#stim {
+#rainbow-page {
     z-index: -1;
     height:100vh;
 }
@@ -186,4 +186,15 @@ h3 a {
 .toy-image {
     padding: 10px;
     height: 300px;
+}
+
+/* support */
+
+.page-title {
+    text-align: center;
+    padding: 14%;
+    font-size: 130px;
+    font-weight: 300;
+    font-family: Kantemuruy Pro, serif;
+    z-index:1;
 }
