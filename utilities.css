@@ -25,6 +25,12 @@
   position: relative;
 }
  
+.justify-cent {
+    justify-content: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
 .fullscreen {
     width: 100vw;
     height: 100vh;
@@ -55,6 +61,10 @@ section {
 .left{
     grid-column: 1;
     animation: slideInFromLeft 1s ease-in;
+}
+
+.index1 {
+    z-index: 1;
 }
 
 
@@ -151,7 +161,7 @@ section {
     width: 26px;
     height: 26px;
     cursor: pointer;
-    z-index: 1;;
+    z-index: 10;
   }
   .menu-btn > span,
   .menu-btn > span::before,
@@ -183,6 +193,7 @@ section {
     list-style: none;
     background-image: var(--rainbow);
     transition-duration: .25s;
+    z-index: 5;
   }
   .menu-item {
     display: block;
