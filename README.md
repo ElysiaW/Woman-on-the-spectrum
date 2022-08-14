@@ -1,4 +1,4 @@
-# Woman-on-the-spectrum
+# Woman on the spectrum
 
 This is a project built for the Katy Youth Hacks Hackathon in August 2022.
 
