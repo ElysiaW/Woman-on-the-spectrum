@@ -150,15 +150,6 @@ h5 {
     display: none;
     z-index: 1;
 }
-.hero-titlee {
-    text-align: center;
-    padding: 30%;
-    font-size: 80px;
-    font-weight: 300;
-    font-family: Helvetica, serif;
-    display: none;
-    z-index: 2;
-}
 
 .laptop-only {
     display: flex;
@@ -216,6 +207,7 @@ h3 a {
     padding: 10px;
     height: 300px;
 }
+
 
 
 /* support */
