@@ -67,9 +67,12 @@ section {
     z-index: 1;
 }
 
+.tablets {
+    display: none;
+}
 
  /* Tablets and under */
- @media (max-width: 768px) {
+ @media (max-width: 1000px) {
     .grid,
     .info .grid{
       grid-template-columns: 1fr;
@@ -121,6 +124,9 @@ section {
         grid-column: 1;
     }
 
+    .tablets {
+        display: block;
+    }
 
 
 
