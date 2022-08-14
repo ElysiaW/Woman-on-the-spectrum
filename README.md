@@ -1,8 +1,8 @@
-# Woman on the spectrum
+# Woman on the spectrum - 3rd place winner
 
 https://elysiaw.github.io/Woman-on-the-spectrum/
 
-This is a project built for the Katy Youth Hacks Hackathon in August 2022.
+This is a solo project built for the Katy Youth Hacks Hackathon in August 2022. I won 3rd place out of 40 different teams in this 36 hour hackathon.
 
 Sexism is a huge problem in the autistic community, with 20% of girls being diagnosed before 11, compared to 50% of boys. Much less research is carried out into Autism in females and male-criteria is still used for the diagnosis. Furthermore, autistic women with social struggles are often dismissed as shy. So many autistic women end up late-diagnosed, often feeling quite abandoned.
 
