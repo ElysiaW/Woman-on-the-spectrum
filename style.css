@@ -154,6 +154,10 @@ h5 {
     display: flex;
 }
 
+.laptop-only-block {
+    display: block;
+}
+
 .bordered {
     border: 1px solid var(--text-dark);
     border-radius: 40px;

@@ -68,7 +68,7 @@ section {
 }
 
 .tablets {
-    display: none;
+  display: none;
 }
 
  /* Tablets and under */
@@ -93,6 +93,10 @@ section {
     }
 
     .laptop-only {
+        display: none;
+    }
+
+    .laptop-only-block {
         display: none;
     }
 
@@ -143,6 +147,9 @@ section {
     }
     
   };
+  .tablets {
+    display: block;
+}
   }
 
 /* Hamburger */
